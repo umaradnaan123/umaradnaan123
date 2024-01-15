@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Umar Adnaan Faiz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 style="border-radius: 20%"><img align="right" alt="Data Analyst" width="500" src="https://img.etimg.com/thumb/width-640,height-480,imgsize-1420813,resizemode-75,msid-102949067/jobs/c-suite/charting-the-course-pursuing-a-data-analyst-career-in-india-and-abroad/pursuing-a-data-analyst-career-in-india-and-abroad.jpg" ></h3>
