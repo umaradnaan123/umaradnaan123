@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://umeradnaan.wixsite.com/adnaan-faiz](https://umeradnaan.wixsite.com/adnaan-faiz)
 
-- 📫 How to reach me **umeradaan@gmail.com**
+- 📫 How to reach me **adnaanaddu1929@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10X654G7VAtRk9DDBBk9TuGZdXg8lkFu_/view?usp=sharing](https://drive.google.com/file/d/10X654G7VAtRk9DDBBk9TuGZdXg8lkFu_/view?usp=sharing)
 
