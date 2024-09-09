@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **umeradaan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LbZ2YQhNVhBh7W80V5ylipERarUafPlV/view?usp=drive_link](https://drive.google.com/file/d/1LbZ2YQhNVhBh7W80V5ylipERarUafPlV/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10X654G7VAtRk9DDBBk9TuGZdXg8lkFu_/view?usp=sharing](https://drive.google.com/file/d/10X654G7VAtRk9DDBBk9TuGZdXg8lkFu_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
