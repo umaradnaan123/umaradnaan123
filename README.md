@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **adnaanaddu1929@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10X654G7VAtRk9DDBBk9TuGZdXg8lkFu_/view?usp=sharing](https://drive.google.com/file/d/10X654G7VAtRk9DDBBk9TuGZdXg8lkFu_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hTax6uU2spFxMNgKpkVgAB0zSw7_k3C4/view?usp=sharing](https://drive.google.com/file/d/1hTax6uU2spFxMNgKpkVgAB0zSw7_k3C4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
