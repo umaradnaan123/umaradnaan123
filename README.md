@@ -62,12 +62,6 @@
   <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### ⚙️ Automation & Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi" />
-  <img src="https://img.shields.io/badge/Make.com-Automations-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4C89?style=for-the-badge" />
-</p>
 
 ---
 
@@ -84,15 +78,16 @@ End-to-end task automation using GPT-4o, LangChain & Make.com.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adnaanfaiz&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanfaiz&layout=compact&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adnaanfaiz&theme=tokyonight&hide_border=true" width="55%" />  
-<img src="https://github-readme-stats.vercel.app/api?username=adnaanfaiz&show_icons=true&theme=tokyonight&hide_border=true" width="55%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanfaiz&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
-
-</div>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=adnaanfaiz&theme=tokyonight" />
+</p>
 
 ---
 
