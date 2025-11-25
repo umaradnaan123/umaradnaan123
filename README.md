@@ -1,6 +1,6 @@
 <!-- Typing Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+S.B.MD.+Umar+Adnaan+Faiz;Frontend+Developer+from+India;AI+%26+Web+Engineering+Enthusiast;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Shaik+Barood+Mohammed+Umar+Adnaan+Faiz;Frontend+Developer+from+India;AI+%26+Web+Engineering+Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
 <!-- 3D Developer Animation -->
@@ -12,68 +12,94 @@
 
 # 🌙 About Me
 
+🧠 **AI & Automation Explorer**  
 🔥 Passionate **Frontend Developer**  
-⚡ Exploring **AI, Automation, Data & Full-Stack Engineering**  
-🚀 Building beautiful, fast & scalable digital experiences  
+🚀 Love building **Fast, Scalable, Intelligent Web Experiences**  
+🤖 Working on **AI Agents, Automation Pipelines & Web Engineering**  
 
-- 🌐 Portfolio: **https://adnaan-portfolio-verse.vercel.app/**
-- 📩 Email: **adnaanaddu1929@gmail.com**
-- 🌲 Linktree: **https://linktr.ee/adnaan_faiz2003**
-- 🧠 Kaggle: **https://www.kaggle.com/umeradnaan**
-- 📄 Resume: **https://drive.google.com/file/d/1fyaGW661YQdDklZzoM7syj-K7rdaJoXq/view?usp=sharing**
+- 🌐 **Portfolio:** https://adnaan-portfolio-verse.vercel.app/  
+- 📩 **Email:** adnaanaddu1929@gmail.com  
+- 🌲 **Linktree:** https://linktr.ee/adnaan_faiz2003  
+- 🧠 **Kaggle:** https://www.kaggle.com/umeradnaan  
+- 📄 **Resume:** https://drive.google.com/file/d/1fyaGW661YQdDklZzoM7syj-K7rdaJoXq/view  
+- 💬 Ask me about **AI, Web Dev, Automation, Agents, Full-Stack, JavaScript, Python**  
 
 ---
 
-# 🛠️ Tech Stack
+# 🤖 AI-Focused Branding
 
-### 🚀 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
-</p>
-
-### 🤖 AI, ML & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### 🔧 DevOps & Other Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,figma" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-00FFFF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Automation%20Builder-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agent%20Developer-FFD700?style=for-the-badge&logo=spark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web%20Engineer-00BFFF?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 Achievements & Badges
 
-### 🧬 AI & Automation  
-🔹 **AI Resume Analyzer + Job Matcher**  
-🔹 **AI Influencer Content Coach**  
-🔹 **AI Medicine Detection System**  
-🔹 **Autonomous Task Agent (LangChain + GPT + n8n)**  
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Star%20Contributor-FF5733?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle%20Explorer-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSource%20Contributor-2ECC71?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Projects%2020%2B-9B59B6?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
 
-### 💻 Web Development  
-🔹 **Portfolio Verse (Next.js + Tailwind)**  
-🔹 **Modern UI SaaS Websites**  
-🔹 **Full-stack MERN real-world apps**  
+---
+
+# 🚀 Skills & Technologies
+
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+</p>
+
+### 🧠 AI & ML  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/GPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### ⚙️ Automation & Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi" />
+  <img src="https://img.shields.io/badge/Make.com-Automations-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4C89?style=for-the-badge" />
+</p>
+
+---
+
+# 🛠️ Featured Projects
+
+### ⭐ AI-Powered Influencer Content Coach  
+AI tool that helps creators generate viral content ideas, scripts, and designs.
+
+### ⭐ Resume Analyzer + Job Matcher  
+AI system that analyzes resumes and matches jobs using NLP + vectors.
+
+### ⭐ Personal Task Automation AI Agent  
+End-to-end task automation using GPT-4o, LangChain & Make.com.
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=adnaanfaiz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=adnaanfaiz&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adnaanfaiz&theme=tokyonight&hide_border=true" width="55%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=adnaanfaiz&show_icons=true&theme=tokyonight&hide_border=true" width="55%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanfaiz&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanfaiz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnaanfaiz&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -81,12 +107,11 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adnaan-faiz/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://github.com/adnaanfaiz"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-  <a href="mailto:adnaanaddu1929@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-  <a href="https://linktr.ee/adnaan_faiz2003"><img src="https://skillicons.dev/icons?i=linktree" width="50"/></a>
+  <a href="https://linktr.ee/adnaan_faiz2003"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="mailto:adnaanaddu1929@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.kaggle.com/umeradnaan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
 
 ---
 
-### ⭐ If you like my work, consider giving a **star** to my repositories!
+<p align="center">✨ Thanks for visiting my profile! Keep building, keep creating. 🚀</p>
