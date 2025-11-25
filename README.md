@@ -17,32 +17,12 @@
 🚀 Love building **Fast, Scalable, Intelligent Web Experiences**  
 🤖 Working on **AI Agents, Automation Pipelines & Web Engineering**  
 
-<p align="left">
-
-  <a href="https://adnaan-portfolio-verse.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="mailto:adnaanaddu1929@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linktr.ee/adnaan_faiz2003">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-
-  <a href="https://www.kaggle.com/umeradnaan">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-
-  <a href="https://drive.google.com/file/d/1fyaGW661YQdDklZzoM7syj-K7rdaJoXq/view">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-
-  <img src="https://img.shields.io/badge/Ask%20Me%20About-AI%20%7C%20Web%20Dev%20%7C%20Agents%20%7C%20Python-6A5ACD?style=for-the-badge" />
-
-</p>
-
+- 🌐 Portfolio: **https://adnaan-portfolio-verse.vercel.app/**
+- 📩 Email: **adnaanaddu1929@gmail.com**
+- 📞 Phone: **7993698361**
+- 🌲 Linktree: **https://linktr.ee/adnaan_faiz2003**
+- 🧠 Kaggle: **https://www.kaggle.com/umeradnaan**
+- 📄 Resume: **https://drive.google.com/file/d/1fyaGW661YQdDklZzoM7syj-K7rdaJoXq/view?usp=sharing**
 
 ---
 
