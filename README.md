@@ -1,6 +1,6 @@
 <!-- Typing Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+S.B.MD.+Umar+Adnaan+Faiz;Frontend+Developer+from+India;AI+%26+Web+Engineering+Enthusiast;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Shaik+Barood+Mohammed+Umar+Adnaan+Faiz;Frontend+Developer+from+India;AI+%26+Web+Engineering+Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
 <!-- 3D Developer Animation -->
@@ -75,20 +75,6 @@ AI system that analyzes resumes and matches jobs using NLP + vectors.
 
 ### ⭐ Personal Task Automation AI Agent  
 End-to-end task automation using GPT-4o, LangChain & Make.com.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adnaanfaiz&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanfaiz&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=adnaanfaiz&theme=tokyonight" />
-</p>
-
 ---
 
 # 📈 GitHub Activity Graph
