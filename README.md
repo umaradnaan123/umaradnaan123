@@ -1,6 +1,6 @@
 <!-- Typing Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Shaik+Barood+Mohammed+Umar+Adnaan+Faiz;Frontend+Developer+from+India;AI+%26+Web+Engineering+Enthusiast;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+S.B.MD.+Umar+Adnaan+Faiz;Frontend+Developer+from+India;AI+%26+Web+Engineering+Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
 <!-- 3D Developer Animation -->
@@ -22,7 +22,7 @@
 - 🌲 **Linktree:** https://linktr.ee/adnaan_faiz2003  
 - 🧠 **Kaggle:** https://www.kaggle.com/umeradnaan  
 - 📄 **Resume:** https://drive.google.com/file/d/1fyaGW661YQdDklZzoM7syj-K7rdaJoXq/view  
-- 💬 Ask me about **AI, Web Dev, Deep Learning, Full-Stack, Python**  
+- 💬 Ask me about **AI, Web Dev, Automation, Agents, Full-Stack, JavaScript, Python**  
 
 ---
 
@@ -61,6 +61,14 @@
   <img src="https://img.shields.io/badge/GPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
+### ⚙️ Automation & Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi" />
+  <img src="https://img.shields.io/badge/Make.com-Automations-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4C89?style=for-the-badge" />
+</p>
+
 ---
 
 # 🛠️ Featured Projects
