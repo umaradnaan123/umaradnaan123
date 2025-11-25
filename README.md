@@ -1,28 +1,92 @@
-![logo](https://github.com/umaradnaan123/umaradnaan123/blob/main/Adnaan)
-<h1 align="center">Hi 👋, I'm S.B.MD.Umar Adnaan Faiz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<h3 style="border-radius: 20%"><img align="right" alt="Data Analyst" width="500" src="https://img.etimg.com/thumb/width-640,height-480,imgsize-1420813,resizemode-75,msid-102949067/jobs/c-suite/charting-the-course-pursuing-a-data-analyst-career-in-india-and-abroad/pursuing-a-data-analyst-career-in-india-and-abroad.jpg" ></h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umaradnaan123&label=Profile%20views&color=0e75b6&style=flat" alt="umaradnaan123" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://adnaanfaiz.carrd.co/](https://adnaanfaiz.carrd.co/)
-
-- 📫 How to reach me **adnaanaddu1929@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hTax6uU2spFxMNgKpkVgAB0zSw7_k3C4/view?usp=sharing](https://drive.google.com/file/d/1hTax6uU2spFxMNgKpkVgAB0zSw7_k3C4/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammed-umar-adnaan-faiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed umar adnaan faiz shaik barood" height="30" width="40" /></a>
-<a href="https://www.facebook.com/adnaan.addu.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adnaan addu" height="30" width="40" /></a>
+<!-- Typing Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+S.B.MD.+Umar+Adnaan+Faiz;Frontend+Developer+from+India;AI+%26+Web+Engineering+Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- 3D Developer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="350">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umaradnaan123&show_icons=true&locale=en&layout=compact" alt="umaradnaan123" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umaradnaan123&show_icons=true&locale=en" alt="umaradnaan123" /></p>
+# 🌙 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umaradnaan123&" alt="umaradnaan123" /></p>
+🔥 Passionate **Frontend Developer**  
+⚡ Exploring **AI, Automation, Data & Full-Stack Engineering**  
+🚀 Building beautiful, fast & scalable digital experiences  
 
+- 🌐 Portfolio: **https://adnaan-portfolio-verse.vercel.app/**
+- 📩 Email: **adnaanaddu1929@gmail.com**
+- 🌲 Linktree: **https://linktr.ee/adnaan_faiz2003**
+- 🧠 Kaggle: **https://www.kaggle.com/umeradnaan**
+- 📄 Resume: **https://drive.google.com/file/d/1fyaGW661YQdDklZzoM7syj-K7rdaJoXq/view?usp=sharing**
 
+---
+
+# 🛠️ Tech Stack
+
+### 🚀 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+### 🤖 AI, ML & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🔧 DevOps & Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🧬 AI & Automation  
+🔹 **AI Resume Analyzer + Job Matcher**  
+🔹 **AI Influencer Content Coach**  
+🔹 **AI Medicine Detection System**  
+🔹 **Autonomous Task Agent (LangChain + GPT + n8n)**  
+
+### 💻 Web Development  
+🔹 **Portfolio Verse (Next.js + Tailwind)**  
+🔹 **Modern UI SaaS Websites**  
+🔹 **Full-stack MERN real-world apps**  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=adnaanfaiz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=adnaanfaiz&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanfaiz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adnaan-faiz/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://github.com/adnaanfaiz"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+  <a href="mailto:adnaanaddu1929@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://linktr.ee/adnaan_faiz2003"><img src="https://skillicons.dev/icons?i=linktree" width="50"/></a>
+</p>
+
+---
+
+### ⭐ If you like my work, consider giving a **star** to my repositories!
