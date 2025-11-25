@@ -30,8 +30,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-00FFFF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Automation%20Builder-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agent%20Developer-FFD700?style=for-the-badge&logo=spark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black" />
   <img src="https://img.shields.io/badge/Web%20Engineer-00BFFF?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Star%20Contributor-FF5733?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle%20Explorer-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenSource%20Contributor-2ECC71?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Projects%2020%2B-9B59B6?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
 ---
@@ -52,7 +51,7 @@
 
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🧠 AI & ML  
